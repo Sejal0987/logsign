@@ -17,7 +17,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
       body: Stack(
         children: [
           Image.asset(
-            'images/p11.jpeg',
+            'images/pic1.jpeg',
             fit: BoxFit.cover,
             width: double.infinity,
             height: double.infinity,
